@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://YangLiangwei.github.io/sitemap.xml
