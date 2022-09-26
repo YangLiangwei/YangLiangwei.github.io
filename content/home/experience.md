@@ -25,7 +25,6 @@ experience:
   - title: Research Assistant
     company: University of Illinois at Chicago
     company_url: ''
-    company_logo: uploads/uic.png
     location: Chicago
     date_start: '2020-08-22'
     date_end: ''
@@ -38,7 +37,6 @@ experience:
   - title: Research Intern
     company: ByteDance Applied Machine Learning Group
     company_url: ''
-    company_logo: uploads/ByteDance.png
     location: Chicago
     date_start: '2022-05-16'
     date_end: '2022-08-05'
