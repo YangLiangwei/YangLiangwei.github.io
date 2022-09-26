@@ -19,7 +19,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: Algorithms
-publication_short: In *Algorithms
+publication_short: In Algorithms
 
 abstract: Proposed algorithms for calculating the shortest paths such as Dijikstra and Flowd-Warshall’s algorithms are limited to small networks due to computational complexity and cost. We propose an efficient and a more accurate approximation algorithm that is applicable to large scale networks. Our algorithm iteratively constructs levels of hierarchical networks by a node condensing procedure to construct hierarchical graphs until threshold. The shortest paths between nodes in the original network are approximated by considering their corresponding shortest paths in the highest hierarchy. Experiments on real life data show that our algorithm records high efficiency and accuracy compared with other algorithms.
 tags: []
