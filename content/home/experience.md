@@ -42,6 +42,15 @@ experience:
     date_end: '2022-08-05'
     description: Focuses on diversified recommendation using graph neural network and submodular function. 
 
+  - title: Research Assistant
+    company: University of Electronic Science and Technology of China
+    company_url: ''
+    location: Chengdu
+    date_start: '2017-09-01'
+    date_end: '2020-07-01'
+    description: Focuses on bioinformatics and graph model.
+
+
 design:
   columns: '2'
 ---
