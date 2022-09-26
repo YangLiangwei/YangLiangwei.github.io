@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Glad to see you on my personal website. I am Ph.D. student in University of Illinois at Chicago, under the supervision of professor Philip S. Yu. Previous I obtained my master and bachelor degree from University of Electronic Science and Technology of China (UESTC). During master period, I study under the supervision of professor Hui Gao and Tao Zhou. I am interested in Recommender System, Graph Neural Network and Artificial Intelligence.
+Glad to meet you here. Currently I am pursuing my Ph.D degree under the supervision of professor Philip S. Yu. Previously I accomplish my Master degree under the supervision of professor Hui Gao and Tao Zhou. I am always open to learn new things, and enjoy the procedure of every task. If you are an interesting person, and enjoy your life. Welcome to contact me~
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
