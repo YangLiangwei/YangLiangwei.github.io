@@ -27,13 +27,13 @@ education:
   courses:
     - course: Ph.D in Computer Science
       institution: University of Illinois at Chicago
-      year: 2020
+      year: Currently
     - course: M.S. in Computer Science
       institution: University of Electronic Science and Technology of China (UESTC)
-      year: 2017
+      year: 2020
     - course: B.S. in Electronic Science and Technology
       institution: University of Electronic Science and Technology of China (UESTC)
-      year: 2013
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
