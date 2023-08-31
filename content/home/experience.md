@@ -28,11 +28,7 @@ experience:
     location: Palo Alto
     date_start: '2023-05-16'
     date_end: ''
-    description: |2-
-        Research include:
-        
-        * Recommender System
-        * Graph Neural Network
+    description: Working on multi-task training algorithm for recommender system
 
   - title: Research Assistant
     company: University of Illinois at Chicago
