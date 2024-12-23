@@ -25,12 +25,12 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lyang84@uic.edu
+  email: liangwei_yang@outlook.com
   address:
-    street: 1205 W Arthington Street
-    city: Chicago
-    region: IL
-    postcode: '60607'
+    street: 2092 Yale St
+    city: Palo Alto 
+    region: CA
+    postcode: '94306'
     country: United States
     country_code: US
 

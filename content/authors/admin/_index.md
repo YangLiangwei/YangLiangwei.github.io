@@ -6,28 +6,28 @@ title: Liangwei Yang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D student in University of Illinois at Chicago
+role: Research Scientist at Salesforce Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Big Data and Social Computing Lab (BDSC)
-    url: https://bdsc.lab.uic.edu/
+  - name: Salesforce Research
+    url: https://www.salesforceairesearch.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include graph, recommender system and efficient modeling.
 
 # Interests to show in About widget
 interests:
   - Recommender System
   - Graph Neural Network
-  - Artificial Intelligence
+  - Large Language Model
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D in Computer Science
       institution: University of Illinois at Chicago
-      year: Currently
+      year: 2024
     - course: M.S. in Computer Science
       institution: University of Electronic Science and Technology of China (UESTC)
       year: 2020
@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Glad to meet you here. Currently I am pursuing my Ph.D degree under the supervision of professor Philip S. Yu. Previously I accomplish my Master degree under the supervision of professor Hui Gao and Tao Zhou. I am always open to learn new things, and enjoy the procedure of every task. If you are an interesting person, and enjoy your life. Welcome to contact me~
+Glad to meet you here. Currently I am a research scientist at Salesforce Research working on efficient modeling and agents. Previously I obtained my Ph.D. degree from University of Illinois Chicago, under the supervision of professor Philip S. Yu. Even before, I accomplish my Master degree under the supervision of professor Hui Gao and Tao Zhou from University of Electronic Science and Technology of China. I am always open to learn new things, and enjoy the procedure of every task. If you are an interesting person, and enjoy your life. Welcome to contact me~
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
