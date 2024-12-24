@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist
+    company: Salesforce Research
+    company_url: ''
+    location: Palo Alto
+    date_start: '2024-01-16'
+    date_end: ''
+    description: Working on efficient modeling and agent
+
   - title: Research Intern
     company: Salesforce Research
     company_url: ''
     location: Palo Alto
     date_start: '2023-05-16'
-    date_end: ''
+    date_end: '2023-11-03'
     description: Working on multi-task training algorithm for recommender system
 
   - title: Research Assistant
@@ -35,7 +43,7 @@ experience:
     company_url: ''
     location: Chicago
     date_start: '2020-08-22'
-    date_end: ''
+    date_end: '2024-01-15'
     description: |2-
         Research include:
         
