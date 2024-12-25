@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 150
 
 title: Contact
 subtitle:
@@ -26,13 +26,13 @@ content:
 
   # Contact details (edit or remove options as required)
   email: liangwei_yang@outlook.com
-  address:
-    street: 2092 Yale St
-    city: Palo Alto 
-    region: CA
-    postcode: '94306'
-    country: United States
-    country_code: US
+  # address:
+  #   street: 2092 Yale St
+  #   city: Palo Alto 
+  #   region: CA
+  #   postcode: '94306'
+  #   country: United States
+  #   country_code: US
 
 design:
   columns: '2'

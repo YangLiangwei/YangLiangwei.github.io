@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 120
 
 title: Experience
 subtitle:
@@ -28,7 +28,6 @@ experience:
     location: Palo Alto
     date_start: '2024-01-16'
     date_end: ''
-    description: Working on efficient modeling and agent
 
   - title: Research Intern
     company: Salesforce Research
@@ -36,19 +35,14 @@ experience:
     location: Palo Alto
     date_start: '2023-05-16'
     date_end: '2023-11-03'
-    description: Working on multi-task training algorithm for recommender system
 
-  - title: Research Assistant
-    company: University of Illinois at Chicago
-    company_url: ''
-    location: Chicago
-    date_start: '2020-08-22'
-    date_end: '2024-01-15'
-    description: |2-
-        Research include:
-        
-        * Recommender System
-        * Graph Neural Network
+  # - title: Research Assistant
+  #   company: University of Illinois at Chicago
+  #   company_url: ''
+  #   location: Chicago
+  #   date_start: '2020-08-22'
+  #   date_end: '2024-01-15'
+
 
   - title: Research Intern
     company: ByteDance Applied Machine Learning Group
@@ -56,15 +50,6 @@ experience:
     location: Chicago
     date_start: '2022-05-16'
     date_end: '2022-08-05'
-    description: Focuses on diversified recommendation using graph neural network and submodular function. 
-
-  - title: Research Assistant
-    company: University of Electronic Science and Technology of China
-    company_url: ''
-    location: Chengdu
-    date_start: '2017-09-01'
-    date_end: '2020-07-01'
-    description: Focuses on bioinformatics and graph model.
 
 
 design:
