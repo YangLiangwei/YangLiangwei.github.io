@@ -21,7 +21,7 @@ experience:
 
   - title: "Paper accepted by EMNLP"
     date_start: "2025-10-19"
-    description: "Our paper *Llminit: A free lunch from large language models for selective initialization of recommendation* has been accepted by EMNLP2025 ! 
+    description: "Our paper *Llminit: A free lunch from large language models for selective initialization of recommendation* has been accepted by EMNLP2025 ! "
 
   - title: "Paper accepted by RecSys"
     date_start: "2025-8-19"
@@ -29,11 +29,11 @@ experience:
 
   - title: "Paper accepted by ACL"
     date_start: "2025-6-19"
-    description: "Our paper *Personabench: Evaluating ai models on understanding personal information through accessing (synthetic) private user data* has been accepted by ACL2025 ! 
+    description: "Our paper *Personabench: Evaluating ai models on understanding personal information through accessing (synthetic) private user data* has been accepted by ACL2025 ! "
 
   - title: "Paper accepted by WWW"
     date_start: "2025-4-19"
-    description: "Our paper *Training Large Recommendation Models via Graph-Language Tokens Alignment*  and *Graph-sequential alignment and uniformity: Toward enhanced recommendation systems* have been accepted by WWW2025 ! 
+    description: "Our paper *Training Large Recommendation Models via Graph-Language Tokens Alignment*  and *Graph-sequential alignment and uniformity: Toward enhanced recommendation systems* have been accepted by WWW2025 ! "
 
 
   - title: "Paper accepted by Coling"
