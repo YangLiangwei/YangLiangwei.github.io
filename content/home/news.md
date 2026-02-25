@@ -11,6 +11,43 @@ design:
   columns: '2'
 
 experience:
+  - title: "Paper accepted by ICLR"
+    date_start: "2026-2-19"
+    description: "Our paper *Entropy-Based Block Pruning for Efficient Large Language Models* has been accepted by ICLR2026 ! We firstly investigate the entropy dynamics within LLMs and observe interesting findings. See you in Brazil"
+
+  - title: "Paper accepted by AAAI"
+    date_start: "2026-1-19"
+    description: "Our paper *Benchmarking llms for political science: A united nations perspective* has been accepted by AAAI2026 ! It is the first LLM benchmark based on United Nations data."
+
+  - title: "Paper accepted by EMNLP"
+    date_start: "2025-10-19"
+    description: "Our paper *Llminit: A free lunch from large language models for selective initialization of recommendation* has been accepted by EMNLP2025 ! 
+
+  - title: "Paper accepted by RecSys"
+    date_start: "2025-8-19"
+    description: "Our paper *Sgcl: Unifying self-supervised and supervised learning for graph recommendation* has been accepted by RecSys2025 ! 
+
+  - title: "Paper accepted by ACL"
+    date_start: "2025-6-19"
+    description: "Our paper *Personabench: Evaluating ai models on understanding personal information through accessing (synthetic) private user data* has been accepted by ACL2025 ! 
+
+  - title: "Paper accepted by WWW"
+    date_start: "2025-4-19"
+    description: "Our paper *Training Large Recommendation Models via Graph-Language Tokens Alignment*  and *Graph-sequential alignment and uniformity: Toward enhanced recommendation systems* have been accepted by WWW2025 ! 
+
+
+  - title: "Paper accepted by Coling"
+    date_start: "2025-2-08"
+    description: "Our paper *Taxonomy-guided zero-shot recommendations with llms* has been accepted by Coling2025 ! We design a Taxonomy guided RecSys based on LLM. Check it out!"
+
+  - title: "Paper accepted by BigData"
+    date_start: "2024-12-08"
+    description: "Our paper *Personalized multi-task training for recommender system* has been accepted by BigData2024 ! We design a new multi-task learning framework to train effective RecSys."
+
+  - title: "Paper accepted by CONLL"
+    date_start: "2024-11-08"
+    description: "Our paper *Pract: Optimizing principled reasoning and acting of llm agent* has been accepted by CONLL2024 ! This is a study on optimizing agent behaviors."
+
   - title: "Paper accepted by NeuroComputing"
     date_start: "2024-11-07"
     description: "Our paper *Diversified Recommendation with Weighted Hypergraph Embedding: Case Study in Music* has been accepted by NeuroComputing ! This is a study on diversifying recommendation with hypergraph."

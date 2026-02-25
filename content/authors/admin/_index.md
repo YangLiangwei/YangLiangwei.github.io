@@ -14,13 +14,13 @@ organizations:
     url: https://www.salesforceairesearch.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include graph, recommender system and efficient modeling.
+bio: My research interests include Agent, Data Mining and Efficient Modeling.
 
 # Interests to show in About widget
 interests:
-  - Recommender System
-  - Graph Neural Network
-  - Large Language Model
+  - Agent
+  - Data Mining
+  - Efficient Modeling
 
 # Education to show in About widget
 education:
