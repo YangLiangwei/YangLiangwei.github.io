@@ -1,18 +1,19 @@
 ---
-title: 'Taxonomy-guided zero-shot recommendations with llms'
+title: 'Training Large Recommendation Models via Graph-Language Tokens Alignment'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yueqing Liang
+  - Mingdai Yang
+  - Zhiwei Liu
   - admin
+  - Xiaolong Liu
   - Chen Wang
-  - Xiongxiao Xu
+  - Hao Peng
   - Philip S. Yu
-  - Kai Shu
 
-date: '2025-1-16T00:00:00Z'
+date: '2025-5-8T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,12 +22,13 @@ date: '2025-1-16T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 31st International Conference on Computational Linguistics
-publication_short: In COLING 2025
+publication: "Companion Proceedings of the ACM on Web Conference 2025"
+publication_short: "In WWW 2025"
 
-abstract:  With the emergence of large language models (LLMs) and their ability to perform a variety of tasks, their application in recommender systems (RecSys) has shown promise. However, we are facing significant challenges when deploying LLMs into RecSys, such as limited prompt length, unstructured item information, and un-constrained generation of recommendations, leading to sub-optimal performance. To address these issues, we propose a novel Taxonomy-guided Recommendation (TaxRec) framework to empower LLM with category information in a systematic approach. Specifically, TaxRec features a two-step process: one-time taxonomy categorization and LLM-based recommendation. In the one-time taxonomy categorization phase, we organize and categorize items, ensuring clarity and structure of item information. In the LLM-based recommendation phase, we feed the structured items into LLM prompts, achieving efficient token utilization and controlled feature generation. This enables more accurate, contextually relevant, and zero-shot recommendations without the need for domain-specific fine-tuning. Experimental results demonstrate that TaxRec significantly enhances recommendation quality compared to traditional zero-shot approaches, showcasing its efficacy as a personal recommender with LLMs. Code is available at: https://github. com/yueqingliang1/TaxRec.
+abstract:  Recommender systems (RS) have become essential tools for helping users efficiently navigate the overwhelming amount of information on e-commerce and social platforms. However, traditional RS relying on Collaborative Filtering (CF) struggles to integrate the rich semantic information from textual data. Meanwhile, large language models (LLMs) have shown promising results in natural language processing, but directly using LLMs for recommendation introduces challenges, such as ambiguity in generating item predictions and inefficiencies in scalability. In this paper, we propose a novel framework to train Large Recommendation models via Graph-Language Token Alignment. By aligning item and user nodes from the interaction graph with pretrained LLM tokens, GLTA effectively leverages the reasoning abilities of LLMs. Furthermore, we introduce Graph-Language Logits Matching (GLLM) to optimize token alignment for end-to-end item prediction, eliminating ambiguity in the free-form text as recommendation results. Extensive experiments on three benchmark datasets demonstrate the effectiveness of GLTA, with ablation studies validating each component.
 
 
-tags: ["RecSys", "LLM"]
+
+tags: ["RecSys", "LLM", "Alignment"]
 ---
 
