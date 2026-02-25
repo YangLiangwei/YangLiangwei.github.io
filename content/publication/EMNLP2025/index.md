@@ -1,5 +1,5 @@
 ---
-title: 'Sgcl: Unifying self-supervised and supervised learning for graph recommendation'
+title: 'Llminit: A free lunch from large language models for selective initialization of recommendation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,14 +7,15 @@ title: 'Sgcl: Unifying self-supervised and supervised learning for graph recomme
 authors:
   - Weizhi Zhang
   - admin
-  - Zihe Song
+  - Wooseong Yang
   - Henry Peng Zou
+  - Yuqing Liu
   - Ke Xu
-  - Yuanjie Zhu
-  - Philip S. Yu
+  - Sourav Medya
+  - Philip S Yu
 
 
-date: '2025-9-22T00:00:00Z'
+date: '2025-11-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,13 +24,14 @@ date: '2025-9-22T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the Nineteenth ACM Conference on Recommender Systems
-publication_short: In RecSys 2025
+publication: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track"
+publication_short: "In EMNLP 2025"
 
-abstract:  Recommender systems (RecSys) are essential for online platforms, providing personalized suggestions to users within a vast sea of information. Self-supervised graph learning seeks to harness high-order collaborative filtering signals through unsupervised augmentation on the user-item bipartite graph, primarily leveraging a multi-task learning framework that includes both supervised recommendation loss and self-supervised contrastive loss. However, this separate design introduces additional graph convolution processes and creates inconsistencies in gradient directions due to disparate losses, resulting in prolonged training times and sub-optimal performance. In this study, we introduce a unified framework of Supervised Graph Contrastive Learning for recommendation (SGCL) to address these issues. SGCL uniquely combines the training of recommendation and unsupervised contrastive losses into a cohesive supervised contrastive learning loss, aligning both tasks within a single optimization direction for exceptionally fast training. Extensive experiments on three real-world datasets show that SGCL outperforms state-of-the-art methods, achieving superior accuracy and efficiency.
+abstract: |
+ Collaborative filtering (CF) is widely adopted in industrial recommender systems (RecSys) for modeling user-item interactions across numerous applications, but often struggles with cold-start and data-sparse scenarios. Recent advancements in pre-trained large language models (LLMs) with rich semantic knowledge, offer promising solutions to these challenges. However, deploying LLMs at scale is hindered by their significant computational demands and latency. In this paper, we propose a novel and scalable LLM-RecSys framework, LLMInit, designed to integrate pretrained LLM embeddings into CF models through selective initialization strategies. Specifically, we identify the embedding collapse issue observed when CF models scale and match the large embedding sizes in LLMs and avoid the problem by introducing efficient sampling methods, including, random, uniform, and variance-based selections. Comprehensive experiments conducted on multiple real-world datasets demonstrate that LLMInit significantly improves recommendation performance while maintaining low computational costs, offering a practical and scalable solution for industrial applications. com/DavidZWZ/LLMInit.
 
 
 
-tags: ["RecSys", "Self-supervised Learning", "Graph"]
+tags: ["RecSys", "LLM", "Collaborative Filtering"]
 ---
 
