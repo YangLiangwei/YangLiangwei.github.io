@@ -25,7 +25,7 @@ experience:
 
   - title: "Paper accepted by RecSys"
     date_start: "2025-8-19"
-    description: "Our paper *Sgcl: Unifying self-supervised and supervised learning for graph recommendation* has been accepted by RecSys2025 ! 
+    description: "Our paper *Sgcl: Unifying self-supervised and supervised learning for graph recommendation* has been accepted by RecSys2025 !"
 
   - title: "Paper accepted by ACL"
     date_start: "2025-6-19"
