@@ -30,8 +30,8 @@ date: '2025-7-16T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Findings of the Association for Computational Linguistics: ACL 2025
-publication_short: In ACL 2025
+publication: "Findings of the Association for Computational Linguistics: ACL 2025"
+publication_short: "In ACL 2025"
 
 abstract:  Personalization is essential for AI assistants, especially in private AI settings where models are expected to interpret users’ personal data (eg, conversations, app usage) to understand their background, preferences, and social context. However, due to privacy concerns, existing academic research lacks direct access to such data, making benchmarking difficult. To fill this gap, we propose a synthetic data pipeline that generates realistic user profiles and private documents, enabling the creation of PersonaBench—a benchmark for evaluating models’ ability to understand personal information. Using this benchmark, we assess Retrieval-Augmented Generation (RAG) pipelines on personalized questions and find that current models struggle to accurately extract and answer questions even when provided with the full set of user documents, highlighting the need for improved personalization methods.
 
