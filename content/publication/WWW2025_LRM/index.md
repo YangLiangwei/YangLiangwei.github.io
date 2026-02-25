@@ -13,7 +13,7 @@ authors:
   - Hao Peng
   - Philip S. Yu
 
-date: '2025-05-8T00:00:00Z'
+date: '2025-05-08T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
